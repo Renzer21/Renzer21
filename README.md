@@ -1,7 +1,54 @@
-🐍 My Contribution Snake Game
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Renzer21/Renzer21/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Renzer21/Renzer21/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Renzer21/Renzer21/output/github-contribution-grid-snake.svg"> </picture>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Renzer</h1>
+<h3 align="center">Software Engineer | Builder | Dream Chaser 🚀</h3>
 
-📊 Player Stats & Inventory
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRenzer21%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRenzer21%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="languages graph" /> </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Renzer21&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-</div>
+---
+
+### 🧠 About Me
+- 💻 Software Engineer who loves clean code & cool UIs  
+- 🌱 Currently learning **Full Stack + System Design**
+- ⚡ Fun fact: *I debug better at night 🌙*
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renzer21&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzer21&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzer21&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Renzer21">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 Built with passion & caffeine  
+</p>
