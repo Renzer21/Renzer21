@@ -1,54 +1,43 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Vihaga Piyumal</h1>
-<h3 align="center">Software Engineer | Builder | Dream Chaser 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Renzer21&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### 🧠 About Me
-- 💻 Software Engineer who loves clean code & cool UIs  
-- 🌱 Currently learning **Full Stack + System Design**
-- ⚡ Fun fact: *I debug better at night 🌙*
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
-</p>
-
----
+# Hi there 👋, I'm Vihanga
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renzer21&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzer21&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzer21&layout=compact&theme=tokyonight" />
-</p>
+### 🚀 About Me
+- 🧑‍💻 I'm currently working on **AI & Software Projects**
+- 🎓 Final Year IT Undergraduate
+- 📫 Reach me at: **your.email@example.com**
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/Renzer21">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/YOUR_FB" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTA" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  💙 Built with passion & caffeine  
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,docker,vscode,figma&perline=8" />
+  </a>
 </p>
+
+---
+
+### 🎨 Animated Header/Footer
+![Capsule Render Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
