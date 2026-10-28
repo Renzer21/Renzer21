@@ -17,7 +17,7 @@
 
 ### 💫 About Me
 
-```javascript
+```js
 const vihanga = {
     code: ["C#", "Python", "JavaScript", "TypeScript", "C++"],
     technologies: {
@@ -28,5 +28,5 @@ const vihanga = {
         tools: ["Docker", "Git", "VS Code", "Postman", "Blender"]
     },
     currentFocus: "AI-Powered Real-Time Systems & High Performance Applications",
-    education: "BSc (Hons) in Information Technology - SLIIT 🎓"
+    education: "BSc (Hons) in Information Technology - SLIIT"
 };
